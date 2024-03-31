@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GENOBF PLACEHOLDER.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="genodown0000" x="2418" y="0" width="765" height="605" frameX="0" frameY="-26" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0001" x="2418" y="0" width="765" height="605" frameX="0" frameY="-26" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0002" x="2480" y="605" width="716" height="623" frameX="-17" frameY="-8" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0003" x="2480" y="605" width="716" height="623" frameX="-17" frameY="-8" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0004" x="2469" y="2330" width="708" height="630" frameX="-21" frameY="0" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0005" x="2469" y="2330" width="708" height="630" frameX="-21" frameY="0" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0006" x="2469" y="2330" width="708" height="630" frameX="-21" frameY="0" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0007" x="2469" y="2330" width="708" height="630" frameX="-21" frameY="0" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0008" x="2469" y="2330" width="708" height="630" frameX="-21" frameY="0" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genodown0009" x="2469" y="2330" width="708" height="630" frameX="-21" frameY="0" frameWidth="765" frameHeight="631"/>
+	<SubTexture name="genoleft0000" x="574" y="2525" width="697" height="664" frameX="0" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0001" x="574" y="2525" width="697" height="664" frameX="0" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0002" x="2469" y="1666" width="676" height="664" frameX="-21" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0003" x="2469" y="1666" width="676" height="664" frameX="-21" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0004" x="759" y="1760" width="680" height="664" frameX="-21" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0005" x="759" y="1760" width="680" height="664" frameX="-21" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0006" x="759" y="1760" width="680" height="664" frameX="-21" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0007" x="759" y="1760" width="680" height="664" frameX="-21" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0008" x="759" y="1760" width="680" height="664" frameX="-21" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoleft0009" x="759" y="1760" width="680" height="664" frameX="-21" frameY="0" frameWidth="701" frameHeight="664"/>
+	<SubTexture name="genoright0000" x="0" y="1722" width="759" height="803"/>
+	<SubTexture name="genoright0001" x="0" y="1722" width="759" height="803"/>
+	<SubTexture name="genoright0002" x="989" y="0" width="720" height="803" frameX="0" frameY="0" frameWidth="759" frameHeight="803"/>
+	<SubTexture name="genoright0003" x="989" y="0" width="720" height="803" frameX="0" frameY="0" frameWidth="759" frameHeight="803"/>
+	<SubTexture name="genoright0004" x="1709" y="0" width="709" height="803" frameX="0" frameY="0" frameWidth="759" frameHeight="803"/>
+	<SubTexture name="genoright0005" x="1709" y="0" width="709" height="803" frameX="0" frameY="0" frameWidth="759" frameHeight="803"/>
+	<SubTexture name="genoright0006" x="1709" y="0" width="709" height="803" frameX="0" frameY="0" frameWidth="759" frameHeight="803"/>
+	<SubTexture name="genoright0007" x="1709" y="0" width="709" height="803" frameX="0" frameY="0" frameWidth="759" frameHeight="803"/>
+	<SubTexture name="genoright0008" x="1709" y="0" width="709" height="803" frameX="0" frameY="0" frameWidth="759" frameHeight="803"/>
+	<SubTexture name="genoright0009" x="1709" y="0" width="709" height="803" frameX="0" frameY="0" frameWidth="759" frameHeight="803"/>
+	<SubTexture name="genoup0000" x="0" y="2525" width="574" height="893" frameX="-18" frameY="0" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0001" x="0" y="2525" width="574" height="893" frameX="-18" frameY="0" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0002" x="1869" y="1666" width="600" height="874" frameX="-5" frameY="-18" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0003" x="1869" y="1666" width="600" height="874" frameX="-5" frameY="-18" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0004" x="1869" y="803" width="611" height="863" frameX="0" frameY="-31" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0005" x="1869" y="803" width="611" height="863" frameX="0" frameY="-31" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0006" x="1869" y="803" width="611" height="863" frameX="0" frameY="-31" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0007" x="1869" y="803" width="611" height="863" frameX="0" frameY="-31" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0008" x="1869" y="803" width="611" height="863" frameX="0" frameY="-31" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup0009" x="1869" y="803" width="611" height="863" frameX="0" frameY="-31" frameWidth="611" frameHeight="894"/>
+	<SubTexture name="genoup end0000" x="958" y="857" width="911" height="903" frameX="-40" frameY="0" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0001" x="958" y="857" width="911" height="903" frameX="-40" frameY="0" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0002" x="0" y="857" width="958" height="865" frameX="-16" frameY="-42" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0003" x="0" y="857" width="958" height="865" frameX="-16" frameY="-42" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0004" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0005" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0006" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0007" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0008" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0009" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0010" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0011" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0012" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0013" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0014" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+	<SubTexture name="genoup end0015" x="0" y="0" width="989" height="857" frameX="0" frameY="-50" frameWidth="989" frameHeight="907"/>
+</TextureAtlas>
