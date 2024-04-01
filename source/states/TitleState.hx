@@ -62,6 +62,8 @@ class TitleState extends MusicBeatState
 	var easterEggKeysBuffer:String = '';
 	#end
 
+	public static var mouse:FlxSprite;
+
 	var mustUpdate:Bool = false;
 
 	var titleJSON:TitleData;
@@ -80,6 +82,10 @@ class TitleState extends MusicBeatState
 		FlxG.fixedTimestep = false;
 		FlxG.game.focusLostFramerate = 60;
 		FlxG.keys.preventDefaultKeys = [TAB];
+
+		mouse = new FlxSprite().loadGraphic(Paths.image('cursor'));
+		FlxG.mouse.load(mouse.pixels, 2);
+		FlxG.mouse.useSystemCursor = true;
 
 		curWacky = FlxG.random.getObject(getIntroTextShit());
 

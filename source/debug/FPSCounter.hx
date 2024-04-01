@@ -23,7 +23,7 @@ class FPSCounter extends TextField
 
 	@:noCompletion private var times:Array<Float>;
 
-	public function new(x:Float = 10, y:Float = 10, color:Int = 0x000000)
+	public function new(x:Float = 0, y:Float = 10, color:Int = 0x000000)
 	{
 		super();
 
@@ -33,10 +33,11 @@ class FPSCounter extends TextField
 		currentFPS = 0;
 		selectable = false;
 		mouseEnabled = false;
-		defaultTextFormat = new TextFormat("VCR OSD Mono", 16, color);
+		defaultTextFormat = new TextFormat("Lato Medium", 15, color);
 		autoSize = LEFT;
 		multiline = true;
 		text = "FPS: ";
+
 
 		times = [];
 	}

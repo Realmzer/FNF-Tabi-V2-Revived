@@ -21,7 +21,7 @@ import states.TitleState;
 	public var lowQuality:Bool = false;
 	public var shaders:Bool = true;
 	public var cacheOnGPU:Bool = #if !switch false #else true #end; //From Stilic
-	public var framerate:Int = 60;
+	public var framerate:Int = 120;
 	public var camZooms:Bool = true;
 	public var hideHud:Bool = false;
 	public var noteOffset:Int = 0;
@@ -74,7 +74,7 @@ import states.TitleState;
 	public var badWindow:Int = 135;
 	public var safeFrames:Float = 10;
 	public var guitarHeroSustains:Bool = true;
-	public var discordRPC:Bool = true;
+	public var discordRPC:Bool = false; // Change to true after mod is finished!
 }
 
 class ClientPrefs {
