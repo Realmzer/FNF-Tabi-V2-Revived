@@ -61,6 +61,8 @@ class Main extends Sprite
 	{
 		super();
 
+		trace('WAKE UP');
+
 		// Credits to MAJigsaw77 (he's the og author for this code)
 		#if android
 		Sys.setCwd(Path.addTrailingSlash(Context.getExternalFilesDir()));
@@ -117,6 +119,10 @@ class Main extends Sprite
 			fpsVar.visible = ClientPrefs.data.showFPS;
 		}
 		#end
+
+		#if windows
+		CppAPI.darkMode();   // The code that enables dark mode. ONLY WORKS ON WINDOWS
+		 #end
 
 		#if linux
 		var icon = Image.fromFile("icon.png");
